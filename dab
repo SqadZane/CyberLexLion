@@ -15,7 +15,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
 
 mainPrint='''
-Welcome to the CyberPatriot Script
+Welcome to the Jake Pauler Script Made By LexLions!
 Please select on of the following:
 1. Check for Users
 2. Check for bad Programs
